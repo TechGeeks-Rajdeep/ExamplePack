@@ -1,0 +1,2 @@
+import examplepack
+examplepack.callme()
